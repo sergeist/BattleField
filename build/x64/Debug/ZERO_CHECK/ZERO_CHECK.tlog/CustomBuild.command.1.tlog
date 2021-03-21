@@ -1,0 +1,10 @@
+^C:\USERS\SERGEI\SOURCE\REPOS\BATTLEFIELD\BUILD\CMAKEFILES\DEF5BB9E49D25C5185A3ED6FD734012B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/SERGEI/source/repos/BattleField -BC:/Users/SERGEI/source/repos/BattleField/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/SERGEI/source/repos/BattleField/build/BattleField.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

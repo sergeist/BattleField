@@ -1,0 +1,5 @@
+C:/Users/SERGEI/source/repos/BattleField/build/CMakeFiles/BattleField.dir
+C:/Users/SERGEI/source/repos/BattleField/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SERGEI/source/repos/BattleField/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/SERGEI/source/repos/BattleField/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/SERGEI/source/repos/BattleField/build/external/glfw/src/CMakeFiles/glfw.dir
